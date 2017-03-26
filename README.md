@@ -1,7 +1,7 @@
 # erlang-helloworld
 says helloworld erlang style
 
-(instructions for Lubuntu Linux)<br>
+<h5>For Ubuntu</h5>
 install erlang with `sudo apt-get install erlang-base`<br>
 make sure you have the compiler with `whereis erlc`<br>
 compile with `erlc hello.erl` (compile is probably unnecessary since beam file is included in the repo)<br>
